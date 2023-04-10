@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="I]88}trdex*l[V9cBzi0" x="38" y="115"><statement name="HANDLER"><block type="device_show_leds" id="EgOc(HR;*jBIu+fXgPAr"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="setLightMode" id="VGqFrKl]L8C/ezP%Dx%C"><field name="mode">wuKong.LightMode.BREATH</field></block></next></block></statement></block></xml>
